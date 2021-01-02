@@ -17,7 +17,7 @@ html{
 .grid{
     width: 1200px;
     max-width: 100%;
-    margin: 0px auto;
+    margin: 0 auto;
 }
 .grid__full-width{
     width: 100%;
@@ -36,12 +36,12 @@ html{
 }
 .gird__columns-6{
     padding-left: 10px;
-    padding-right: 0px;
+    padding-right: 0;
     width:50%;
 }
 .gird__columns-3-4{
     padding-left: 10px;
-    padding-right: 0px;
+    padding-right: 0;
     width: 33.3334%;
 }
 .grid__columns-9{
